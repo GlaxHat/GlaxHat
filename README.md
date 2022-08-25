@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GlaxHat
 - 👀 I am a Technical Designer at Radical Forge who has previously worked on Zombie Army 4 DLC
 - 🌱 I’m currently trying to develop my own game in my free time
-- 📫 You can find me on Twitter: @GlaxHat
+- 📫 You can find me on Twitter: @AGameByBen
